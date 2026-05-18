@@ -62,3 +62,9 @@ You can customize the chatbot's responses and parameters by modifying the `chatb
 *   `SERVICE_CHARGE`: The service charge amount.
 
 You can also add or modify the rules in the `_build_rules` method to change the chatbot's conversational flow and responses.
+
+Zain F23607031
+Hamza AK F23607046
+Abdul Ghani F23607005
+Usman Nasir F23607004 
+Ahad Imran F23607034
